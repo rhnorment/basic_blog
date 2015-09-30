@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 ruby '2.2.1'
 
 gem 'bourbon', '~> 4.2.0'
+# gem 'clearance'
 gem 'coffee-rails', '~> 4.1.0'
 gem 'delayed_job_active_record'
 gem 'flutie'
